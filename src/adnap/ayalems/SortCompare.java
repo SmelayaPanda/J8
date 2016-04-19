@@ -14,6 +14,8 @@ public class SortCompare {
 
         /**
          * Compare sort a list of string in Java 7 and Java 8
+         *
+         * @lambda
          */
 
         List<String> names = Arrays.asList("Lisa", "Katya", "Oleg", "Leha");
