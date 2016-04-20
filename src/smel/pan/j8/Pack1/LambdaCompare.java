@@ -1,4 +1,4 @@
-package adnap.ayalems;
+package smel.pan.j8.Pack1;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Created by SmelayaPanda on 20.04.2016.
  */
-public class SortCompare {
+public class LambdaCompare {
 
     public static void main(String[] args) {
 
