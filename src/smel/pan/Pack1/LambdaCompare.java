@@ -1,4 +1,4 @@
-package smel.pan.j8.Pack1;
+package smel.pan.Pack1;
 
 import java.util.Arrays;
 import java.util.Collections;
