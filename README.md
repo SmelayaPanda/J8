@@ -8,5 +8,5 @@ http://winterbe.com/posts/2014/03/16/java-8-tutorial/ ,
 http://docs.oracle.com/javase/8/docs/ ,
 https://dzone.com/articles/functional-programming-java-8 ,
 ...
-and a little imagination =)
+
 
