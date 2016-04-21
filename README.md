@@ -1,5 +1,5 @@
 # J8_MyExamlePack
-My test of innovation in Java 8
+Test of innovation in Java 8
 
 In this project you will find many simple examples (with description) to work with java 8 Innovations
 
