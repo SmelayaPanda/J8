@@ -1,4 +1,4 @@
-package smel.pan.Pack1;
+package smel.pan.pack1_lambdas;
 
 import java.util.Arrays;
 import java.util.Collections;

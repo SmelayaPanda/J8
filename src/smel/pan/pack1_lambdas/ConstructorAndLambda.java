@@ -1,8 +1,9 @@
-package smel.pan.Pack1;
+package smel.pan.pack1_lambdas;
 
 /**
  * Created by SmelayaPanda on 20.04.2016.
- * see how the :: keyword works for constructors
+ * <p>
+ * See how the :: keyword works for constructors
  */
 
 interface PersonFactory<P extends Person> {

@@ -1,4 +1,4 @@
-package smel.pan.Pack1;
+package smel.pan.pack1_lambdas;
 
 /**
  * Created by SmelayaPanda on 20.04.2016.

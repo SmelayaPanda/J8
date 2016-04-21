@@ -1,4 +1,4 @@
-package smel.pan.Pack1;
+package smel.pan.pack2_interfaces;
 
 /**
  * Functional interface can not have more than one abstract method

@@ -1,8 +1,9 @@
-package smel.pan.Pack1;
+package smel.pan.pack1_lambdas;
 
 /**
  * Created by SmelayaPanda on 20.04.2016.
- * Each lambda corresponds to a given type, specified by an interface.
+ *
+ * @Lambda Each lambda corresponds to a given type, specified by an interface.
  * A so called functional interface must contain exactly one abstract method declaration.
  * Each lambda expression of that type will be matched to this abstract method.
  * Since default methods are not abstract you're free to add default methods to your functional interface.
